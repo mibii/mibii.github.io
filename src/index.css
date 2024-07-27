@@ -1,0 +1,58 @@
+/* Custom styles for your website */
+
+body {
+  margin: 0;
+  font-family: var(--font-mono), Consolas, "Courier New", monospace; /* Switched to a monospaced font stack */
+  background-color: #282c34; /* Dark background */
+  color: #e0e8f0; /* Light blue text */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease-in-out; /* Smooth color change on hover */
+}
+
+a:hover {
+  color: #64ffda; /* Lighter blue on hover (matches the green variable) */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+:root {
+  --font-mono: "Fira Mono", Menlo, Consolas, "Courier New", monospace; /* Updated monospace font stack */
+  --transition: all 0.2s ease-in-out; /* Maintained the transition */
+  --dark: #282c34; /* Use this for various shades of dark */
+  --darker: #1e2127;
+  --light: #e0e8f0; /* Use this for various shades of light */
+  --lighter: #f0f8ff;
+  --accent: #64ffda; /* Maintained the green color as accent */
+  /* Removed unused color variables and font sizes */
+}
+
+/* You can add more custom styles here for specific elements or layouts */
