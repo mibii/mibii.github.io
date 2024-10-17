@@ -72,7 +72,7 @@ const resumeData = {
     {
       "name": "E-commerce Platform",
       "description": "Developed a scalable e-commerce platform using React and Node.js",
-      "url": "github.com/janedoe/ecommerce-platform"
+      "url": "https://infometka.com/"
     }
   ],
   "interests": ["Hiking", "Photography", "Machine Learning", "Open Source Contributing"]
