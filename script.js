@@ -7,7 +7,7 @@ const resumeData = {
     "location": "New York, NY",
     "linkedIn": "linkedin.com/in/janedoe",
     "portfolio": "janedoe.com",
-    "profilePicture": "https://media.discordapp.net/attachments/1265435591101648922/1278138640165240884/Openjourney.png?ex=66cfb6de&is=66ce655e&hm=78b5a96f2caba558e89a28f7881aefe9336d0376313afa2ae00bc1754101b332&=&format=webp&quality=lossless&width=699&height=1050" // Placeholder image URL
+    "profilePicture": "https://img1.teletype.in/files/40/e7/40e747b1-c99f-4d9a-946b-e8b7e551dd93.jpeg" // Placeholder image URL
   },
   "summary": "Experienced software engineer with a passion for creating efficient and scalable applications. Skilled in full-stack development and cloud technologies.",
   "skills": [
