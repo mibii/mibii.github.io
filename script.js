@@ -6,7 +6,7 @@ const resumeData = {
     "phone": "+1 (555) 123-4567",
     "location": "New York, NY",
     "linkedIn": "linkedin.com/in/janedoe",
-    "portfolio": "janedoe.com",
+    "portfolio": "infometka.com",
     "profilePicture": "https://img1.teletype.in/files/40/e7/40e747b1-c99f-4d9a-946b-e8b7e551dd93.jpeg" // Placeholder image URL
   },
   "summary": "Experienced software engineer with a passion for creating efficient and scalable applications. Skilled in full-stack development and cloud technologies.",
