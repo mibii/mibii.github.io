@@ -70,8 +70,8 @@ const resumeData = {
   ],
   "projects": [
     {
-      "name": "E-commerce Platform",
-      "description": "Developed a scalable e-commerce platform using React and Node.js",
+      "name": "Gateway to Local and Global Connections",
+      "description": "🅸🄽🄵 🅾️🄼🅴🅃🄺 🅰️  is a Hosting Plase for Peoples and Companies Offers.  It is designed to increase the visibility of your offers - your links (to your channel, your website, page or social media post) and it's also a way to receive orders from your clients.",
       "url": "infometka.com"
     }
   ],
