@@ -732,7 +732,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                 <li>File-based JSON storage for user data (demonstration).</li>
               </ul>
               <p class="mt-2"><a href="https://buymeacoffee.com/techmobilebox/e/291063" target="_blank" rel="noopener noreferrer" class="text-primary dark:text-primary-light font-medium hover:underline">Request Source Code</a></p>
-            `},{image:"/images/project-ipfs-blog.jpg",tags:["IPFS","HTML","Tailwind CSS","JavaScript","Decentralized"],title:"Decentralized Blog on IPFS",detailsLink:"https://dev.to/mibii/ditch-the-server-own-your-words-building-a-decentralized-blog-with-ipfs-1p56",detailsIcon:hi,details:`
+            `},{image:"/images/project-ipfs-blog.jpg",tags:["IPFS","HTML","Tailwind CSS","JavaScript","Decentralized"],title:"Decentralized Blog on IPFS",detailsLink:"https://ipfsblog.netlify.app/",detailsIcon:hi,details:`
                <p>A simple, static blog hosted entirely on the InterPlanetary File System (IPFS).</p>
                <p class="font-semibold mt-3 mb-1">Key Features:</p>
                <ul class="list-disc list-inside space-y-1">
